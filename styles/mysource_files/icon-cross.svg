@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
-    <title>52192C79-619E-4A93-8C9A-3024589FA51C</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Menu-1st-level" transform="translate(-312.000000, -32.000000)" fill="#4A4A4A">
-            <g id="Group-20">
-                <g id="Group" transform="translate(312.000000, 32.000000)">
-                    <rect id="Rectangle-10" transform="translate(11.000000, 10.500000) rotate(45.000000) translate(-11.000000, -10.500000) " x="-2" y="9" width="26" height="3"></rect>
-                    <rect id="Rectangle-10-Copy-2" transform="translate(11.000000, 10.500000) scale(-1, 1) rotate(45.000000) translate(-11.000000, -10.500000) " x="-2" y="9" width="26" height="3"></rect>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="22" height="21" viewBox="0 0 22 21" xmlns="http://www.w3.org/2000/svg"><title>52192C79-619E-4A93-8C9A-3024589FA51C</title><g fill="#4A4A4A" fill-rule="evenodd"><path d="M2.868.247l18.385 18.385-2.121 2.121L.747 2.368z"/><path d="M19.132.247L.747 18.632l2.121 2.121L21.253 2.368z"/></g></svg>
