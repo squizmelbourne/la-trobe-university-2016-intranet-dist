@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="19px" height="8px" viewBox="0 0 19 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
-    <title>2FE0744D-870C-4849-835E-CD80D8EBC318</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="01_Home" transform="translate(-38.000000, -278.000000)">
-            <g id="Group-11" transform="translate(0.000000, -30.000000)">
-                <g id="Group-29" transform="translate(38.000000, 308.000000)">
-                    <path d="M14.8636364,4 L0,4" id="Shape" stroke="#f79c3a" stroke-width="1.5"></path>
-                    <polygon id="Path-5" fill="#f79c3a" points="12.3779745 0.0668023148 18.8779745 4.20486912 12.3779745 7.96477088"></polygon>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="19" height="8" viewBox="0 0 19 8" xmlns="http://www.w3.org/2000/svg"><title>2FE0744D-870C-4849-835E-CD80D8EBC318</title><g fill="none" fill-rule="evenodd"><path d="M14.864 4H0" stroke="#f79c3a" stroke-width="1.5"/><path fill="#f79c3a" d="M12.378.067l6.5 4.138-6.5 3.76z"/></g></svg>
