@@ -2,4 +2,4 @@
 
 :warning: These distribution files are automatically generated and should never be manually managed.
 
-Source git commit: 960a868e7986c6e35275109e59054a3351a85bff
+Source git commit: 674bc905d31b5fc9d6e62ba226f4595e487cc0b8
