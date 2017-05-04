@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/**
+ * @license
+ * MyFonts Webfont Build ID 3368098, 2017-04-03T01:21:24-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: ProximaNovaA-Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold/
+ *
+ * Webfont: ProximaNovaS-Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold/
+ *
+ * Webfont: ProximaNova-Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+ *
+ * Webfont: ProximaNovaA-RegularIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular-it/
+ *
+ * Webfont: ProximaNovaS-RegularIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular-it/
+ *
+ * Webfont: ProximaNova-RegularIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular-it/
+ *
+ * Webfont: ProximaNovaA-Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular/
+ *
+ * Webfont: ProximaNovaS-Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular/
+ *
+ * Webfont: ProximaNova-Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ *
+ * Webfont: ProximaNovaA-BoldIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold-it/
+ *
+ * Webfont: ProximaNovaS-BoldIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold-it/
+ *
+ * Webfont: ProximaNova-BoldIt by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold-it/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3368098
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ *
+ * © 2017 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3364a2");
+@font-face {
+  font-family: 'ProximaNovaA-Bold';
+  src: url("mysource_files/3364A2_0_0.eot");
+  src: url("mysource_files/3364A2_0_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_0_0.woff2") format("woff2"), url("mysource_files/3364A2_0_0.woff") format("woff"), url("mysource_files/3364A2_0_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaS-Bold';
+  src: url("mysource_files/3364A2_1_0.eot");
+  src: url("mysource_files/3364A2_1_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_1_0.woff2") format("woff2"), url("mysource_files/3364A2_1_0.woff") format("woff"), url("mysource_files/3364A2_1_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNova-Bold';
+  src: url("mysource_files/3364A2_2_0.eot");
+  src: url("mysource_files/3364A2_2_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_2_0.woff2") format("woff2"), url("mysource_files/3364A2_2_0.woff") format("woff"), url("mysource_files/3364A2_2_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaA-RegularIt';
+  src: url("mysource_files/3364A2_3_0.eot");
+  src: url("mysource_files/3364A2_3_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_3_0.woff2") format("woff2"), url("mysource_files/3364A2_3_0.woff") format("woff"), url("mysource_files/3364A2_3_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaS-RegularIt';
+  src: url("mysource_files/3364A2_4_0.eot");
+  src: url("mysource_files/3364A2_4_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_4_0.woff2") format("woff2"), url("mysource_files/3364A2_4_0.woff") format("woff"), url("mysource_files/3364A2_4_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNova-RegularIt';
+  src: url("mysource_files/3364A2_5_0.eot");
+  src: url("mysource_files/3364A2_5_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_5_0.woff2") format("woff2"), url("mysource_files/3364A2_5_0.woff") format("woff"), url("mysource_files/3364A2_5_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaA-Regular';
+  src: url("mysource_files/3364A2_6_0.eot");
+  src: url("mysource_files/3364A2_6_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_6_0.woff2") format("woff2"), url("mysource_files/3364A2_6_0.woff") format("woff"), url("mysource_files/3364A2_6_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaS-Regular';
+  src: url("mysource_files/3364A2_7_0.eot");
+  src: url("mysource_files/3364A2_7_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_7_0.woff2") format("woff2"), url("mysource_files/3364A2_7_0.woff") format("woff"), url("mysource_files/3364A2_7_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: url("mysource_files/3364A2_8_0.eot");
+  src: url("mysource_files/3364A2_8_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_8_0.woff2") format("woff2"), url("mysource_files/3364A2_8_0.woff") format("woff"), url("mysource_files/3364A2_8_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaA-BoldIt';
+  src: url("mysource_files/3364A2_9_0.eot");
+  src: url("mysource_files/3364A2_9_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_9_0.woff2") format("woff2"), url("mysource_files/3364A2_9_0.woff") format("woff"), url("mysource_files/3364A2_9_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNovaS-BoldIt';
+  src: url("mysource_files/3364A2_A_0.eot");
+  src: url("mysource_files/3364A2_A_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_A_0.woff2") format("woff2"), url("mysource_files/3364A2_A_0.woff") format("woff"), url("mysource_files/3364A2_A_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'ProximaNova-BoldIt';
+  src: url("mysource_files/3364A2_B_0.eot");
+  src: url("mysource_files/3364A2_B_0.eot?#iefix") format("embedded-opentype"), url("mysource_files/3364A2_B_0.woff2") format("woff2"), url("mysource_files/3364A2_B_0.woff") format("woff"), url("mysource_files/3364A2_B_0.ttf") format("truetype");
+}
+
+/*# sourceMappingURL=fonts.css.map */

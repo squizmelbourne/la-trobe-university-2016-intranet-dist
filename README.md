@@ -1,2 +1,5 @@
-# la-trobe-university-2016-intranet-dist
-La Trobe University Intranet (2016) design files used by Git File Bridge on Squiz Matrix.
+# la-trobe-university-2016-intranet
+
+:warning: These distribution files are automatically generated and should never be manually managed.
+
+Source git commit: 6fcecf9df8c58f230b6592fbe06d2919c06532ae
