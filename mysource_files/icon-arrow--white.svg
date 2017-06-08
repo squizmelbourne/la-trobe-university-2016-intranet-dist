@@ -8,8 +8,8 @@
         <g id="01_Home" transform="translate(-38.000000, -278.000000)">
             <g id="Group-11" transform="translate(0.000000, -30.000000)">
                 <g id="Group-29" transform="translate(38.000000, 308.000000)">
-                    <path d="M14.8636364,4 L0,4" id="Shape" stroke="#AE1824" stroke-width="1.5"></path>
-                    <polygon id="Path-5" fill="#AE1824" points="12.3779745 0.0668023148 18.8779745 4.20486912 12.3779745 7.96477088"></polygon>
+                    <path d="M14.8636364,4 L0,4" id="Shape" stroke="#ffffff" stroke-width="1.5"></path>
+                    <polygon id="Path-5" fill="#ffffff" points="12.3779745 0.0668023148 18.8779745 4.20486912 12.3779745 7.96477088"></polygon>
                 </g>
             </g>
         </g>
